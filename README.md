@@ -2,6 +2,8 @@
 
 https://github.com/abdulfatir/twitter-sentiment-analysis
 
+Merging branches: https://www.youtube.com/watch?v=OVQK2zzb6U8
+
 # To do:
 
 Target completion: 26 June 2019
