@@ -10,15 +10,15 @@ Target completion: 26 June 2019
 
 More Preprocessing to be done:
 
-  a. Url
+  a. Url- Mi
   
-  b. User mention
+  b. User mention- Mi
   
-  c. Emoticon
+  c. Emoticon- whoever finishes first
   
-  d. Hashtag
+  d. Hashtag- Va
   
-  e. Retweet
+  e. Retweet- Va
   
 
 2. [Mihir] Test first 5 classification systems on the Twitter data. Also, read report.pdf
