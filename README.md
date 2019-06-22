@@ -6,7 +6,12 @@ https://github.com/abdulfatir/twitter-sentiment-analysis
 
 Target completion: 26 June 2019
 
-Need to discuss how to go about data pre-processing
+More Preprocessing to be done:
+  a. Url
+  b. User mention
+  c. Emoticon
+  d. Hashtag
+  e. Retweet
 
 2. [Mihir] Test first 5 classification systems on the Twitter data. Also, read report.pdf
 
