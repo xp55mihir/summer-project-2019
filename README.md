@@ -9,8 +9,7 @@ featureExtraction.ipynb: models for different classification techniques can be f
 generalizedPredictionModel.ipynb: Contains the general model for predicting sentiment of any tweet.
 
 
-# Report
-https://docs.google.com/document/d/1-kyDfo1iVPzy2W_KR5I-Q3Chu4vvIjfchFDmIZfcU_M/edit
+
 
 
 
